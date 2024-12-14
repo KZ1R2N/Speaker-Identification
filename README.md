@@ -30,7 +30,7 @@ The dataset consists of:
 ## 🌐 Gammatonegram Images
 Gammatonegram images are a visual representation of audio signals, particularly well-suited for capturing spectral and temporal characteristics. Below is an example of a gammatonegram generated during preprocessing:
 
-![Gammatonegram Example](Images/GammatonegramExample.PNG)
+![Gammatonegram Example](GammatonegramExample.PNG)
 
 - The horizontal axis represents time.
 - The vertical axis represents frequency bands.
