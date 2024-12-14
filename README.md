@@ -51,4 +51,5 @@ These images are crucial for extracting features that help in distinguishing bet
 ## 🎯 Results
 The model achieved an impressive **99% accuracy** on the test set, demonstrating its effectiveness in speaker identification.
 
+![Confusion Matrix](confusionMatrix.PNG)
 
